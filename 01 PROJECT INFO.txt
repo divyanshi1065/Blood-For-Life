@@ -1,0 +1,15 @@
+
+
+**Instructions**
+- Install the Requirements: pip install -r requirements.txt
+- Then, make database migrations: python manage.py makemigrations
+- python manage.py migrate
+- And finally, run the application: python manage.py runserver
+- http://127.0.0.1:8000/
+
+For Admin Account, please create one with superuser!
+- Create Admin account using following command
+```
+py manage.py createsuperuser
+username :- daizy
+password:- @12345678
