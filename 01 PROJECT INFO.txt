@@ -11,5 +11,3 @@ For Admin Account, please create one with superuser!
 - Create Admin account using following command
 ```
 py manage.py createsuperuser
-username :- daizy
-password:- @12345678
